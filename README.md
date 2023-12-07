@@ -1,10 +1,9 @@
-![image](https://github.com/SMX144/qb-banking/assets/137075524/a635dc14-0171-42cc-8a88-3767aa110807)# QB-Banking
-
+# QB-BANKING
 
 # Preview
-https://cdn.discordapp.com/attachments/1182429430119940226/1182429743371522118/Captura_de_pantalla_2023-12-07_204555.png?ex=6584aa83&is=65723583&hm=680be98089f6bdbb3d1b1ab143651f738215b1a707d1c22633bcca17db552022&
 
-https://cdn.discordapp.com/attachments/1182429430119940226/1182429743732248586/Captura_de_pantalla_2023-12-07_220419.png?ex=6584aa83&is=65723583&hm=713c69f5021f31e5c906d9cdf12a0b95abdc3bf92cabfdd95c3bce297623f05d&
+![image](https://github.com/SMX144/qb-banking/assets/137075524/a635dc14-0171-42cc-8a88-3767aa110807)
+
 ## Features
 - Handles all player interaction with bank/job/gang/shared accounts
 - ATM and bank card integration
