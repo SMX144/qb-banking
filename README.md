@@ -3,9 +3,8 @@
 
 # Preview
 https://cdn.discordapp.com/attachments/1182429430119940226/1182429743371522118/Captura_de_pantalla_2023-12-07_204555.png?ex=6584aa83&is=65723583&hm=680be98089f6bdbb3d1b1ab143651f738215b1a707d1c22633bcca17db552022&
+
 https://cdn.discordapp.com/attachments/1182429430119940226/1182429743732248586/Captura_de_pantalla_2023-12-07_220419.png?ex=6584aa83&is=65723583&hm=713c69f5021f31e5c906d9cdf12a0b95abdc3bf92cabfdd95c3bce297623f05d&
-https://cdn.discordapp.com/attachments/1182429430119940226/1182429744361381889/Captura_de_pantalla_2023-12-07_220522.png?ex=6584aa83&is=65723583&hm=bd7d8eddcd4dfe5da188f0de32c0200967c6cb7375f1743eed36633196e81d14&
-https://cdn.discordapp.com/attachments/1182429430119940226/1182429744696922163/Captura_de_pantalla_2023-12-07_220538.png?ex=6584aa83&is=65723583&hm=afef3ede13ccfbe20afe7f5baa5cd6da1f29d6c87ebcf0b0de1eb939ec213211&
 ## Features
 - Handles all player interaction with bank/job/gang/shared accounts
 - ATM and bank card integration
